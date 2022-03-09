@@ -12,7 +12,7 @@ const getName = name => stage + '_' + prefix + '_' + name
 const originator = 'tz1hmBJYyUyDNsbGkudBPAzTV5dSjBmhDWmJ';
 const path = './contract/event_well.arl';
 const id = 'event_well';
-const metadata = 'ipfs://QmeujYaXRZtLPHo6bH17VnEFPmkKo9tLcurfNCA7fXvU7Q'
+const metadata = 'ipfs://Qmf7NKTrEBNWTXowRhBG44aLtYFpV1Hm6uyGFUDe8Qbik8'
 
 const env = {
   stages: {
